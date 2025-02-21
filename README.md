@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Murad
 
-<!--
-**murad-tech/murad-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full Stack Software Developer, with primary focus on development of Back-end systems.
 
-Here are some ideas to get you started:
+### Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages](https://skillicons.dev/icons?i=java,js,ts,py)  
+![Back-end](https://skillicons.dev/icons?i=spring,maven,hibernate,kafka,nodejs,express,nestjs)  
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)  
+![Front-end](https://skillicons.dev/icons?i=react,tailwind,jquery,html,css)  
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,jenkins,docker,kubernetes,bash,nginx,github)
+![Others](https://skillicons.dev/icons?i=eclipse,vscode,vim,neovim)
+
+### Contacts
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muradtech)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradjummy@gmail.com)

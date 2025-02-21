@@ -4,12 +4,12 @@ A Full Stack Software Developer, with primary focus on development of Back-end s
 
 ### Languages & Tools
 
-![Languages](https://skillicons.dev/icons?i=java,js,ts,py)  
-![Back-end](https://skillicons.dev/icons?i=spring,maven,hibernate,kafka,nodejs,express,nestjs)  
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)  
-![Front-end](https://skillicons.dev/icons?i=react,tailwind,jquery,html,css)  
-![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,jenkins,docker,kubernetes,bash,nginx,github)
-![Others](https://skillicons.dev/icons?i=eclipse,vscode,vim,neovim)
+[![Languages](https://skillicons.dev/icons?i=java,js,ts,py)](#languages--tools)  
+[![Back-end](https://skillicons.dev/icons?i=spring,maven,hibernate,kafka,nodejs,express,nestjs)](#languages--tools)  
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](#languages--tools)  
+[![Front-end](https://skillicons.dev/icons?i=react,tailwind,jquery,html,css)](#languages--tools)  
+[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,jenkins,docker,kubernetes,bash,nginx,github)](#languages--tools)  
+[![Others](https://skillicons.dev/icons?i=eclipse,vscode,vim,neovim)](#languages--tools)
 
 ### Contacts
 
